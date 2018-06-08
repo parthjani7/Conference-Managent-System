@@ -1,0 +1,11 @@
+.login-box,.register-box { margin: 25px auto;}
+.login-box .form-group,.register-box .form-group {margin-bottom: 7px;}
+.form-control {height: 30px;padding: 2px 8px;}
+.form-control-feedback {width: 30px;height: 30px;}
+a.Link{font-weight:bold;text-decoration:underline;}
+.form-control{color:#000;}
+.form.box-body{padding:30px;}
+h3.user-caption{margin: 0px;color: white;border-right: 3px solid white;padding: 12px;border-left: 3px solid white;font-weight: bold;}
+div.callout{font-weight:bold;}
+.datepicker table tr td.day:hover, .datepicker table tr td.day.focused {background: rgba(60, 141, 188, 0.72);}
+.datepicker table tr td.disabled,.datepicker table tr td.disabled:hover{background: #d4d4d4;color: #929292;}
